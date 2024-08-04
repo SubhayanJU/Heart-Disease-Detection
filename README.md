@@ -23,7 +23,5 @@ The model is designed to support healthcare professionals and individuals by ide
 ### Contributions
 Contributions and improvements are welcome! Please submit issues or pull requests to enhance the functionality and performance of the model.
 
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
